@@ -1,6 +1,6 @@
 # Reproducibility — Erdős #1100 squarefree extremal function
 
-This module reproduces every numerical claim in two notes on the squarefree
+This module reproduces every numerical claim in two companion notes on the squarefree
 extremal function `g_sf(k)` for coprime adjacent divisors (Erdős problem #1100):
 
 - **[R]** *A reduction of the squarefree coprime adjacent divisor problem, and a conditional golden-ratio lower bound*
