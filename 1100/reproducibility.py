@@ -336,7 +336,7 @@ def main():
     print(line); print("REDUCTION NOTE [R]"); print(line)
     check_identity(kmax=10)
     print()
-    mean_tau_growth(ks=range(8, 19))      # trim top of range for speed
+    mean_tau_growth(ks=range(8, 23))      # trim top of range for speed
     print()
     layer_profile(k=16, reps=40)
     print()
