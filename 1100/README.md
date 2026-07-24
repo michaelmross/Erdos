@@ -1,6 +1,6 @@
 # Reproducibility — Erdős #1100 squarefree extremal function
 
-This module reproduces every numerical claim in two companion notes to *A Reduction of the Squarefree Coprime Adjacent Divisor Problem and a Conditional Golden-Ratio Lower Bound* (M. M. Ross, June 2026, [zenodo.20769000](https://zenodo.org/records/20769000)) on the squarefree extremal function `g_sf(k)` for coprime adjacent divisors.
+This module reproduces every numerical claim in two companion notes to *A Reduction of the Squarefree Coprime Adjacent Divisor Problem and a Conditional Golden-Ratio Lower Bound* (M. M. Ross, June 2026, [zenodo.20768999](https://doi.org/10.5281/zenodo.20768999)) on the squarefree extremal function `g_sf(k)` for coprime adjacent divisors.
 
 [![DOI](https://zenodo.org/badge/1276236643.svg)](https://doi.org/10.5281/zenodo.21541282)
 
