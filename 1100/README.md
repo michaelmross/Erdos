@@ -4,12 +4,12 @@ This module reproduces every numerical claim in two companion notes to *A Reduct
 
 [![DOI](https://zenodo.org/badge/1276236643.svg)](https://doi.org/10.5281/zenodo.21541282)
 
-- **[R]** *A reduction of the squarefree coprime adjacent divisor problem, and a conditional golden-ratio lower bound*
-- **[L]** *A within-layer adjacency lemma*
-
 All randomized routines are **seeded**; deterministic routines take no seed. The
 numbers below are what the notes cite; exact trailing decimals depend on the seed
 and sample sizes, but the trends and orders are stable.
+
+- **[R]** *A reduction of the squarefree coprime adjacent divisor problem, and a conditional golden-ratio lower bound*
+- **[L]** *A within-layer adjacency lemma*
 
 ## Setup
 
