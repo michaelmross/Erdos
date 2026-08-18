@@ -2,7 +2,7 @@
 
 This module reproduces every numerical claim in two companion notes to *A Reduction of the Squarefree Coprime Adjacent Divisor Problem and a Conditional Golden-Ratio Lower Bound* (M. M. Ross, June 2026, [zenodo.20768999](https://doi.org/10.5281/zenodo.20768999)) on the squarefree extremal function `g_sf(k)` for coprime adjacent divisors.
 
-[![DOI](https://zenodo.org/badge/1276236643.svg)](https://doi.org/10.5281/zenodo.21541282)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1276236643-blue.svg)](https://doi.org/10.5281/zenodo.21541282)
 
 All randomized routines are **seeded**; deterministic routines take no seed. The
 numbers below are what the notes cite; exact trailing decimals depend on the seed
